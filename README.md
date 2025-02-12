@@ -42,3 +42,4 @@ Allows to reboot the rp-2040 board to program mode by typing **dfu** on the seri
 - @hathach for [TinyUSB project](https://github.com/hathach/tinyusb)
 - @sekigon-gonnoc for [Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB)
 - The Pi foundation for such an awesome microcontroller and related documentation :)
+## Форк только для того, чтобы не потерять.
